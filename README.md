@@ -18,3 +18,8 @@ manejo de tipo de vaiables ,cadena ,if, for, while
 - ![image](https://github.com/user-attachments/assets/49263a70-d56e-4e22-a089-e3fb58f0ae0b)
 - ejemplo de verdadero
 - ![image](https://github.com/user-attachments/assets/f49b2da4-1a61-4bae-a347-2700706c6a34)
+## ejemplo de while 
+-codigo
+- ![image](https://github.com/user-attachments/assets/3b9e1558-9080-4eb8-8ef0-b904f9120d7e)
+- ejecutado
+- ![image](https://github.com/user-attachments/assets/a6429b64-4d83-4dee-bb69-877d169bcd9f)
