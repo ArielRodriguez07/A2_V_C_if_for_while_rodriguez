@@ -8,4 +8,9 @@ manejo de tipo de vaiables ,cadena ,if, for, while
 - ![image](https://github.com/user-attachments/assets/9f65eeac-2e38-4e04-a0ce-47666136015a)
 - resultados
 - ![image](https://github.com/user-attachments/assets/528d443d-4790-4bf9-bfce-f34d1151a4b7)
+- ## if else
+- cuando es verdadero
+- ![image](https://github.com/user-attachments/assets/a1ed24ab-06c1-4049-b742-cd24285aac92)
+- para el caso falso
+- ![image](https://github.com/user-attachments/assets/fd83a0e8-2aea-41c1-bd0f-b0eb049b6b2e)
 
