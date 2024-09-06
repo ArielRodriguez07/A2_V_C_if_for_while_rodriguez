@@ -13,4 +13,8 @@ manejo de tipo de vaiables ,cadena ,if, for, while
 - ![image](https://github.com/user-attachments/assets/a1ed24ab-06c1-4049-b742-cd24285aac92)
 - para el caso falso
 - ![image](https://github.com/user-attachments/assets/fd83a0e8-2aea-41c1-bd0f-b0eb049b6b2e)
-
+## ejemplo de if y esle
+-ejemplo de falso
+- ![image](https://github.com/user-attachments/assets/49263a70-d56e-4e22-a089-e3fb58f0ae0b)
+- ejemplo de verdadero
+- ![image](https://github.com/user-attachments/assets/f49b2da4-1a61-4bae-a347-2700706c6a34)
