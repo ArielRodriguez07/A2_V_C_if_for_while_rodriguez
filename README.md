@@ -5,7 +5,7 @@ manejo de tipo de vaiables ,cadena ,if, for, while
 - resultados
 - ![image](https://github.com/user-attachments/assets/6c3623df-141c-461d-8bd8-bb0434130cf2)
 ## manejo de cadena
--
+- ![image](https://github.com/user-attachments/assets/9f65eeac-2e38-4e04-a0ce-47666136015a)
 - resultados
 - ![image](https://github.com/user-attachments/assets/528d443d-4790-4bf9-bfce-f34d1151a4b7)
 
